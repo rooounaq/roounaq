@@ -6,10 +6,10 @@ My work focuses on **performance marketing, marketing analytics, business intell
 
 ### What I Work On
 
-📈 **Digital Marketing** — Performance Marketing, SEO, Google Ads, Meta Ads, GA4 & GTM
+📈 **Digital Marketing** - Performance Marketing, SEO, Google Ads, Meta Ads, GA4 & GTM
 
-📊 **Data Analytics** — Excel, SQL, Power BI, DAX, Python & Data Visualization
+📊 **Data Analytics** - Excel, SQL, Power BI, DAX, Python & Data Visualization
 
-🤖 **AI & Automation** — Generative AI, n8n, Zapier, AI Workflows & Marketing Automation
+🤖 **AI & Automation** - Generative AI, n8n, Zapier, AI Workflows & Marketing Automation
 
-I'm open to projects and opportunities involving **digital marketing, data analytics, business intelligence, AI, and automation**.
+I'm open to projects and opportunities involving **digital marketing, data analytics, business intelligence, AI & automation**.
