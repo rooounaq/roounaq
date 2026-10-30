@@ -109,8 +109,6 @@ This GitHub contains practical projects around:
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roounaq&show_icons=true&hide_border=true&theme=transparent)
-
 ## 🤝 Let's Connect
 
 I'm open to projects and opportunities involving **digital marketing, data analytics, business intelligence, AI, and automation**.
